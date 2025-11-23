@@ -1,6 +1,6 @@
 # Privacy Policy for EasyMap
 
-**Last Updated:** [20251121]
+**Last Updated:** [2025-11-23]
 
 ## Introduction
 EasyMap ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our Google Sheets Add-on uses your data.
