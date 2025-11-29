@@ -1,9 +1,9 @@
 # Terms of Service for EasyMap
 
-**Last Updated:** [2025-11-23]
+**Last Updated:** [2025-11-29]
 
 ## 1. Acceptance of Terms
-By installing and using the EasyMap Google Sheets Add-on, you agree to be bound by these Terms of Service.
+By installing and using the EasyMap Google Sheets™ Add-on, you agree to be bound by these Terms of Service.
 
 ## 2. Use of License
 EasyMap is currently provided as a free service. You are granted a non-exclusive, non-transferable license to use the add-on for personal or commercial purposes.
@@ -23,3 +23,5 @@ We reserve the right to modify these terms at any time. Your continued use of th
 
 ## 7. Contact
 For any questions regarding these terms, please contact: [contact@spatial-dev.guru]
+
+*Google Sheets™ is a trademark of Google LLC.*
